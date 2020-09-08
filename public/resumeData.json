@@ -1,0 +1,143 @@
+{
+  "main": {
+    "name": "Roman Emperor",
+    "occupation": "App Developer [iOS, Android, Web]",
+    "description": "Full Time Studeny in week days, Developer and Content Creater by Weekend. #NotoriousGarage",
+    "image": "roman.png",
+    "bio": "Roman is an Application Developer who utlize Swift, Flutter, and ReactJS for the job. ",
+    "contactmessage": "Reach out to me for works relating to iOS, Android and Web",
+    "email": "romanparajuli.official@gmail.com",
+    "phone": "+977 9864478084",
+    "address": {
+      "street": "14 Talchhikhel Street",
+      "city": "Lalitpur",
+      "state": "Bagmati",
+      "zip": "44770"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1Rwt3S86bd4rbV_DX43NYQf85MWb7M0RM/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/emperorroman/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/romanemperor/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/aadwaita_roman/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/RomanEmperor",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are shor description of my learning curve.",
+    "education": [
+      {
+        "school": "London Metropolitian University",
+        "degree": "Bachloers in Computing",
+        "graduated": "July 2021",
+        "description": "Currently in Final Year"
+      }
+    ],
+    "work": [
+      {
+        "company": "Notorious Garage",
+        "title": "Founder and Content Creater",
+        "years": "April 2016 - Present",
+        "description": "Sharing my learning of App development."
+      },
+      {
+        "company": "First Step I&E",
+        "title": "Software Engineer",
+        "years": "Nov 2019 - Present",
+        "description": "Building Applications for Web, iOS and Android"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "Swift",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Sketch, Figma && Adobe XD",
+        "level": "75%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Firebase",
+        "level": "60%"
+      },
+      {
+        "name": "Flutter",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Dictionaries in Server Side Swift using VAPOR",
+        "category": "Implementation of Dictionaries in server side swift development with vapor",
+        "image": "server-side-swift.png",
+        "url": "https://www.youtube.com/watch?v=uvB6YH1chHY&t=202s"
+      },
+      {
+        "title": "Responsive Dynamic UI with Autolayout",
+        "category": "Developing a responsive UI in iOS with AutoLayout",
+        "image": "autolayout.jpg",
+        "url": "https://www.youtube.com/watch?v=0xOlTqFKc50"
+      },
+      {
+        "title": "Machine Learning in iOS",
+        "category": "Implementing Machine Learning Using Image Procressing",
+        "image": "ml.jpg",
+        "url": "https://www.youtube.com/watch?v=QNC0jj8kdUk&t=161s"
+      },
+      {
+        "title": "Getting Started with Machine Learning",
+        "category": "Your First Machine Learning Experience",
+        "image": "ml3.jpg",
+        "url": "https://www.youtube.com/watch?v=gNpdLaSnPWY"
+      },
+      {
+        "title": "Implementing WebView in iOS13",
+        "category": "Implementation of WebView to retain your user for web realated tasks",
+        "image": "webview.jpg",
+        "url": "https://www.youtube.com/watch?v=6B2tkDcUHa4"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Roman is amazing when it comes to solve problems using availabel resources",
+        "user": "Subrath Budhathoki"
+      },
+      {
+        "text": "If you got limited reosurce to build a application with, this is the guy you head towards",
+        "user": "Roshan Jung Karki"
+      }
+    ]
+  }
+}
